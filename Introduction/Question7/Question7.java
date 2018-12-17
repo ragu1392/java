@@ -7,6 +7,6 @@ that 1 mile is 1.6 kilometers.)
 */
 public class Question7 {
 	public static void main(String[] args) {
-		System.out.println((14 / 45.30) / 1.6);
+		System.out.println((14 /(45/60)+(30/3600) ) / 1.6);
 	}
 }
